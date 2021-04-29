@@ -10,3 +10,5 @@ Code repository for [this article](https://dantokeefe.medium.com/deploy-a-machin
 3.) Download the repository with `git clone https://github.com/DanOKeefe/Iris_FastAPI`
 
 4.) Run the server with `uvicorn main:app --reload`
+
+5.) Interact with the server using *test_api.ipynb* or with your browser.
